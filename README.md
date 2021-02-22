@@ -1,4 +1,6 @@
-this is my site
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 # this is my heading 1
 
 ## heading 2
