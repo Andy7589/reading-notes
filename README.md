@@ -5,7 +5,9 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 **– Michael Jordan**
 
 # **About Me**
-
+Former Marine, I served for 4 years between 2012-2016. After my time in service, I attempted Software Development at Green River Comunity College for about 2
+quarters before I fell behind on my work due to doctors appointments. Feeling discuraged, I stuck to what i knew best, security. 4 years later and although scared
+beyond beleif, I am trying my hand again at coding with the growth mindset in mind.
 
 ## **Growth Mindset**
 A Growth Mindset pushes you to succed. Many times we underestimate ourselves and in doing so we avoid challenges.
