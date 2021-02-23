@@ -26,6 +26,16 @@ I remind myself every morning that:
 - [Quote by Michael Jordan](https://www.teamphoria.com/10-quotes-on-overcoming-obstacles-that-will-motivate-you/)
 - [My Github Portfolio](https://github.com/Andy7589)
 
+### table of contents
+- [Reading 01](read01.md)
+- [Reading 02](read02.md)
+- [Reading 03](read03.md)
+- [Reading 04](read04.md)
+- [Reading 05](read05.md)
+- [Reading 06](read06.md)
+- [Reading 07](read07.md)
+- [Reading 08](read08.md)
+
 
 
 
