@@ -1,4 +1,4 @@
-![GitHub Logo](/images/logo.png)
+![](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg)
 Format: ![Alt Text](url)
 
 # this is my heading 1
