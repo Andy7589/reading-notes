@@ -17,6 +17,6 @@ Another example: Numerical Organization
 
 these are just a few ways of using markdown for a website.
 
-'dragonfly' 
+
 
 
