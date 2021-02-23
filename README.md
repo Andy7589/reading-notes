@@ -6,7 +6,9 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 
 ## **Growth Mindset**
 A Growth Mindset pushes you to succed. Many times we underestimate ourselves and in doing so we avoid challenges.
-With this minset, we overcome any obstical thats put in our path. As a Marine, I've learned this first hand. 
+With this minset, we overcome any obstical thats put in our path. As a Marine, I've learned this first hand.
+We are trainded with this specific mindset because on the field of battle, anything can and will happen. We
+strive for perfection. We push each other to our fullest extent. When we can master our minds, we can master the world.
 
 ### External Links
 - https://codefellows-lab.herokuapp.com/
