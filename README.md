@@ -9,8 +9,8 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 - item 3
 
 ### External Links
-- item 1 https://codefellows-lab.herokuapp.com/
-- item 2 https://pixabay.com/photos/code-html-digital-coding-web-1076536/
+- https://codefellows-lab.herokuapp.com/
+- https://pixabay.com/photos/code-html-digital-coding-web-1076536/
 - item 3
 
 
