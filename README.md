@@ -5,9 +5,7 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 **– Michael Jordan**
 
 ## **Growth Mindset**
-- item 1
-- item 2
-- item 3
+A Growth Mindset allows you to move forward. Many  
 
 ### External Links
 - https://codefellows-lab.herokuapp.com/
