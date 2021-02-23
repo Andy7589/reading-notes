@@ -1,4 +1,4 @@
-![Alt Text](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg)
+![alt text](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg)
 Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076536/)
 
 # this is my heading 1
