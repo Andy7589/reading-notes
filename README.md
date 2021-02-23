@@ -2,7 +2,7 @@
 Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076536/)
 
 “Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it.”
-# **– Michael Jordan**
+**– Michael Jordan**
 
 ## heading 2
 - item 1
