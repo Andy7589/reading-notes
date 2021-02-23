@@ -23,7 +23,7 @@ I remind myself every morning that:
 ### External Links
 
 - [Photo Credit](https://pixabay.com/photos/code-html-digital-coding-web-1076536/)
-- [](https://www.teamphoria.com/10-quotes-on-overcoming-obstacles-that-will-motivate-you/)
+- [Quote by Michael Jordan](https://www.teamphoria.com/10-quotes-on-overcoming-obstacles-that-will-motivate-you/)
 - [](https://github.com/Andy7589)
 
 
