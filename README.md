@@ -10,6 +10,10 @@ With this minset, we overcome any obstical thats put in our path. As a Marine, I
 We are trainded with this specific mindset because on the field of battle, anything can and will happen. We
 strive for perfection. We push each other to our fullest extent. When we can master our minds, we can master the world.
 
+I remind myself every morning that:
+1. Ive survived the most brutal training of all US Military branches
+2. 
+
 ### External Links
 - https://codefellows-lab.herokuapp.com/
 - https://pixabay.com/photos/code-html-digital-coding-web-1076536/
