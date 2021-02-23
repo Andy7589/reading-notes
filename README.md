@@ -8,13 +8,11 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 - item 2
 - item 3
 
-### heading 3
+### external links
 - item 1
 - item 2
 - item 3
 
-
-#### external links
 https://codefellows-lab.herokuapp.com/
 https://pixabay.com/photos/code-html-digital-coding-web-1076536/
 
