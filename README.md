@@ -4,6 +4,9 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 “Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it.”
 **– Michael Jordan**
 
+# **About Me**
+
+
 ## **Growth Mindset**
 A Growth Mindset pushes you to succed. Many times we underestimate ourselves and in doing so we avoid challenges.
 With this minset, we overcome any obstical thats put in our path. As a Marine, I've learned this first hand.
