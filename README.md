@@ -11,8 +11,9 @@ We are trainded with this specific mindset because on the field of battle, anyth
 strive for perfection. We push each other to our fullest extent. When we can master our minds, we can master the world.
 
 I remind myself every morning that:
-1. Ive survived the most brutal training of all US Military branches
-2. 
+1. I've survived the most brutal training of all U.S. Military branches.
+2. Pain is a weakness leaving the body.
+3. I can do all things through Christ who strengthens me.
 
 ### External Links
 - https://codefellows-lab.herokuapp.com/
