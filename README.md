@@ -5,7 +5,8 @@ Format: ![Alt Text](https://pixabay.com/photos/code-html-digital-coding-web-1076
 **– Michael Jordan**
 
 ## **Growth Mindset**
-A Growth Mindset allows you to move forward. Many  
+A Growth Mindset pushes you to succed. Many times we underestimate ourselves and in doing so we avoid challenges.
+With this minset, we overcome any obstical thats put in our path. As a Marine, I've learned this first hand. 
 
 ### External Links
 - https://codefellows-lab.herokuapp.com/
