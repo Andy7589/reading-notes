@@ -1,6 +1,7 @@
 # **intro + scripts**
 
-<p>
+**Learning to program with JavaScript involves:**
+
 
 
 
