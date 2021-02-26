@@ -27,7 +27,7 @@ they are widly used by many software developers around the world.
 2. **TextWrangler/BB Edit** *("for mac only")(This text editor has been retired)*
 3. **BB Edit** *(BB Editor has a 30 day trial. Once the trial is over, you can purchase the full license for $49.99. You dont have to buy it and just continue using BB Edit as is, but you wont get the full features and benefits that comes with the full version)*
 
-*These are just a few examples of text editors you can use.*
+**These are just a few examples of text editors you can use.**
 
 
 
