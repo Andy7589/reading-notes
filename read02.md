@@ -30,6 +30,9 @@ they are widly used by many software developers around the world.
 **These are just a few examples of text editors you can use.**
 
 
+## **Text Editor vs. IDE's**
+Aside from what I explained with Text Editor, an IDE or an Intergrated Development Environment, is an all-in-one software program similar or compared to Outlook in the sense of, its not only helping you write text, it also has other functions like file managing, a compiler, and debugger. Although the auther of article only implies that he would prefer just a text editor, at this current time I cant give my opinion as i havent worked with an IDE yet. With what I read, I could defenitly see myself using one in the near future just because of the added features.
+
 
 
 
