@@ -24,7 +24,7 @@ they are widly used by many software developers around the world.
 
 **A few examples of third-party text editors are:**
 1. **NotePad++** (*NotePad++ has been tried and proven by many web developers and features: Syntax Highlighting, Code Completion, Word Completion, Function Completion, Zoom in/out feature, an Online Community, and its own chat room for questions*.)
-2. **TextWrangler/BB Edit** (*for mac only*)
+2. **TextWrangler/BB Edit** (*for mac only*) 
 3. 
 
 
