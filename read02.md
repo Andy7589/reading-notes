@@ -19,6 +19,10 @@ another with more feature that can benefit me in coding)
 
 
 ## **Third-Party Options?**
+Third party text editors, or most, come with all or some of the features recommended in this reading. As they are free,
+they are widly used by many software developers around the world.
+
+**A few examples of third-party text editors are:**
 
 
 
