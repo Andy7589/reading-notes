@@ -7,6 +7,10 @@ A text editor is a very important tool in the Software Developers arsinal. A tex
 text and can be used to build websites with. It can be downloaded and installed or can be found online.
 
 **What Features should I be looking for?**
+1. Code completion
+2. Syntax highlighting
+3. A nice variety of themes (to reduce eye strain and fatigue)
+4. 
 
 
 
