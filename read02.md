@@ -1,6 +1,6 @@
 # **Choosing A Text Editor**
-
-## '**What is a text editor'**
+<p> 'reading notes for choosing a text editor'
+## **What is a text editor?**
 
 
 
