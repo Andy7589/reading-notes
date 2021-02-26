@@ -26,7 +26,10 @@ they are widly used by many software developers around the world.
 1. **NotePad++** (*NotePad++ has been tried and proven by many web developers and features: Syntax Highlighting, Code Completion, Word Completion, Function Completion, Zoom in/out feature, an Online Community, and its own chat room for questions*.)
 2. **TextWrangler/BB Edit** *("for mac only")(This text editor has been retired)*
 3. **BB Edit** *(BB Editor has a 30 day trial. Once the trial is over, you can purchase the full license for $49.99. You dont have to buy it and just continue using BB Edit as is, but you wont get the full features and benefits that comes with the full version)*
-4. 
+
+*These are just a few examples of text editors you can use.*
+
+
 
 
 
