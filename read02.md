@@ -1,4 +1,4 @@
-# **Choosing A Text Editor**
+# **!!Choosing A Text Editor!!**
 *reading notes for choosing a text editor*
 
 
