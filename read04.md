@@ -20,6 +20,13 @@ Every website should be tailored for the audience. Not just for me or the site o
 
 *These are some ways to get your message accross.*
 
+## **Visual hierarchy**
+- Size
+- Color
+- Style
+
+54564
+
 
 
 
