@@ -10,6 +10,10 @@ Version control is a system that records changes to various files allowing you t
 LVCS was created many years ago and is stored on a seperate data base on your hard disk drive
 
 - **Centralized Version Control:**
+CVCS can be accessed by various clients as well as muiliple developer teams that are working on the same project.
+
+- **Distributed Version Control:**
+DVCS mirrors files or work from develper teams as copies within another drive. This helps if for any reason a file is deleted or in the case of a catastrophic loss.
 
 
 
