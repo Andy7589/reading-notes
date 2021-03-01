@@ -17,6 +17,8 @@ DVCS mirrors files or work from develper teams as copies within another drive. T
 
 ## **What is Git:**
 
+**Git is:**
+- Snapshots
 
 
 
