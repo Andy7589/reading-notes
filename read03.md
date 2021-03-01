@@ -28,9 +28,9 @@ Git relies on local operations because most info can be found in a local resours
 Git can greatly reduce and reverse irreversable files that are lost.
 - **States**
 Files in Git can reside in three main states: Committed, Modified and Staged.
-*(committed: Data is securely stored in a local database)*
-*(Modified: File has been chaged but not committed to the database.)*
-*(Staged: Flagged a file's changed version to be committed in the next snapshot.)*
+1. *(committed: Data is securely stored in a local database)*
+2. *(Modified: File has been chaged but not committed to the database.)*
+3. *(Staged: Flagged a file's changed version to be committed in the next snapshot.)*
 
 
 
