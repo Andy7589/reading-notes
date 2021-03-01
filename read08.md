@@ -28,7 +28,11 @@ Loops check a conditon. If it returns **True**, a code block will run. Then the 
 - While
 - Do While
 
-**Loop Counter**
+## **Loop Counter**
+A **for loop** uses a counter as a condition. This instructs the code to run a specified number of times. Here you can see the condition is made up of three statements:
+- Initaialization *(Var i = 0;)*
+- Condition *(i < 10;)*
+- Update *(i++)*
 
 
 
