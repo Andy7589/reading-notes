@@ -35,7 +35,7 @@ Files in Git can reside in three main states: Committed, Modified and Staged.
 ## **Remote Repositories**
 
 - **Seeing your remotes**
-*Here's an example of code to she your remotes*
+*Here's an example of code to see your remotes:*
 <P>$ cd example
 
 $ git remote -v
@@ -53,7 +53,26 @@ remote3 https://github.com/remote3/example (fetch)
 remote3 https://github.com/remote3/example (push)
 </p>
 
+- **Adding Remotes:**
+*Here's an example of code to add Remotes:*
+<p>$ git remote
 
+origin
+
+$ git remote add js https://github.com/janesmith/project1
+
+$ git remote -v
+
+origin https://github.com/johndoe/project1 (fetch)
+
+origin https://github.com/johndoe/project1 (push)
+
+js     https://github.com/janesmith/project1 (fetch)
+
+js     https://github.com/janesmith/project1 (push)
+</p>
+
+*These are just some examples.*
 
 
 
