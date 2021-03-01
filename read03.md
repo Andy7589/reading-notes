@@ -15,6 +15,9 @@ CVCS can be accessed by various clients as well as muiliple developer teams that
 - **Distributed Version Control:**
 DVCS mirrors files or work from develper teams as copies within another drive. This helps if for any reason a file is deleted or in the case of a catastrophic loss.
 
+## **What is Git:**
+
+
 
 
 
