@@ -25,7 +25,13 @@ Every website should be tailored for the audience. Not just for me or the site o
 - Color
 - Style
 
-54564
+## **Designing Navigation**
+- Concise
+- Clear
+- Selective
+- Context
+- Interactive
+- Consistent
 
 
 
