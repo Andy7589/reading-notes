@@ -32,7 +32,7 @@ Files in Git can reside in three main states: Committed, Modified and Staged.
 2. *(Modified: File has been chaged but not committed to the database.)*
 3. *(Staged: Flagged a file's changed version to be committed in the next snapshot.)*
 
-
+[](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 
 
