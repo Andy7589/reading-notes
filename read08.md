@@ -2,7 +2,7 @@
 *My notes for reading 08*
 
 ## **Comparison and Logical Operators**
-You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean: true or false.
+You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean: **true** or **false**.
 
 **Here are some examples of code:**
 - "==" is equal to
@@ -14,7 +14,8 @@ You can evaluate a situation by comparing one value in the script to what you ex
 - ">=" greater than or equal to
 - "<=" less than or equal to
 
-
+## **Logical Operators**
+Comparison operators usually return single values of **true** or **false**.
 
 
 
